@@ -22,7 +22,7 @@
 To install `prompt-zen` directly from GitHub, use:
 
 ```bash
-pip install git+https://github.com/hellerphilipp/prompt-zen.git
+pip install prompt-zen
 ```
 
 ---
