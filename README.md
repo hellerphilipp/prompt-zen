@@ -19,7 +19,7 @@
 
 ## Installation
 
-To install `prompt-zen` directly from GitHub, use:
+To install `prompt-zen`, use:
 
 ```bash
 pip install prompt-zen
