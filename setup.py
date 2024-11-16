@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="prompt-zen",
-    version="0.1.0",
+    version="1.0.0",
     description="A framework for iterative prompt refinement and optimization.",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
