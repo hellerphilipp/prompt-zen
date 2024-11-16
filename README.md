@@ -29,7 +29,7 @@ pip install prompt-zen
 
 ## Usage
 
-Use `prompt-zen` in Jupyter notebooks or Python projects to optimize and refine LLM prompts.
+Use `prompt-zen` in Jupyter notebooks or Python projects to optimize and refine LLM prompts. The `examples` directory includes an `example_usage.py` file to help you get started quickly. 
 
 ---
 
